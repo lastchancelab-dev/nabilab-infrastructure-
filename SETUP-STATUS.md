@@ -15,3 +15,9 @@
 - SDK iOS 26.5 disponible
 - Simulateur iOS 26.5 installé — build 23F77
 - iPhone virtuel démarré et fonctionnel
+
+## Node.js et npm
+
+- Node.js 24.21.0 installé avec Homebrew
+- npm 11.19.0 vérifié
+- Chemin Node.js ajouté dans ~/.zprofile
